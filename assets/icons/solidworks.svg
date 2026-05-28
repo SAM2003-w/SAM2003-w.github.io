@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#6ee7a4"/>
+  <path d="M15 42c9-19 18-27 34-25-7 4-11 10-10 18 1 10-9 16-24 7z" fill="#14507a"/>
+  <path d="M23 20c7 4 13 10 18 20" stroke="#14507a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <text x="17" y="37" font-size="18" font-family="Arial" font-weight="700" fill="#14507a">3D</text>
+</svg>
